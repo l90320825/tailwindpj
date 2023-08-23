@@ -218,6 +218,7 @@ export const areaCustomSeries = [
     opacity: '0.8',
     type: 'SplineArea',
     width: '2',
+    findSplinePoint:'1',
 
   },
   {
@@ -228,6 +229,8 @@ export const areaCustomSeries = [
     opacity: '0.8',
     type: 'SplineArea',
     width: '2',
+    findSplinePoint:'1',
+
   },
   {
     dataSource: areaChartData[2],
@@ -237,6 +240,7 @@ export const areaCustomSeries = [
     opacity: '0.8',
     type: 'SplineArea',
     width: '2',
+    findSplinePoint:'1',
   },
 ];
 
